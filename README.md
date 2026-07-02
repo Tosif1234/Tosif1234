@@ -1,208 +1,161 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/1234567/000000/banner-dark.svg" alt="Full Stack Developer" width="100%" style="max-width: 900px; border-radius: 12px;">
+  <img src="assets/banner.svg" alt="Tosif Kureshi - Software Engineer" width="100%" />
 </div>
 
-<!-- Intro -->
-<div align="center">
-  <h1 style="font-size: 2.5em; font-weight: 700; margin: 20px 0;">Tosif</h1>
-  <p style="font-size: 1.1em; color: #888; margin: 10px 0;">Full Stack Engineer • React • Node.js • TypeScript • Next.js</p>
-  
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tosif)
-  [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tosif)
-  [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tosif@example.com)
-</div>
-
----
-
-## ✨ About Me
-
-I'm a **Full Stack Developer** with 5+ years of experience building scalable, high-performance web applications. I specialize in modern JavaScript ecosystems and have a passion for clean code, system design, and creating exceptional user experiences.
-
-Currently focused on building **production-grade applications** with React, Next.js, and Node.js, with expertise in cloud infrastructure, database optimization, and architectural design patterns.
-
----
-
-## 🎯 Current Focus
-
-```
-→ Building full-stack SaaS applications with Next.js 14
-→ Mastering system design and scalable architectures
-→ Contributing to open-source projects
-→ Exploring AI/ML integration in web applications
-```
-
----
-
-## 📊 GitHub Analytics
+<br>
 
 <div align="center">
-  
-  [![Tosif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tosif1234&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&border_color=30363d&show_icons=true&count_private=true&hide_border=true)](https://github.com/Tosif1234)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosif1234&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&hide_border=true&layout=compact)](https://github.com/Tosif1234)
-  
+  <a href="https://tosifkureshi.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=0A0A0A" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/tosifk77">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0A0A0A" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tosifkureshi91@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=minutemailer&logoColor=00E5FF&labelColor=0A0A0A" alt="Email" />
+  </a>
 </div>
 
----
+<br>
+<img src="assets/divider.svg" width="100%" />
+<br><br>
 
-## 🛠️ Tech Stack
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">Category</th>
-      <th align="center">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>React • Next.js • TypeScript • Tailwind CSS • React Query • Zustand • Framer Motion</td>
-    </tr>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td>Node.js • Express • NestJS • GraphQL • REST APIs • tRPC</td>
-    </tr>
-    <tr>
-      <td><strong>Databases</strong></td>
-      <td>PostgreSQL • MongoDB • Redis • Prisma • TypeORM</td>
-    </tr>
-    <tr>
-      <td><strong>DevOps & Cloud</strong></td>
-      <td>Docker • Kubernetes • AWS • Vercel • GitHub Actions • CI/CD</td>
-    </tr>
-    <tr>
-      <td><strong>Tools & Platforms</strong></td>
-      <td>Git • GitHub • VS Code • Figma • Postman • Stripe API • Clerk</td>
-    </tr>
-    <tr>
-      <td><strong>Testing & QA</strong></td>
-      <td>Jest • Vitest • React Testing Library • Playwright • E2E Testing</td>
-    </tr>
-  </tbody>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h2 align="left" style="border-bottom: none;">ENGINEERING CRAFTSMANSHIP</h2>
+      <p align="left" style="color: #A0A0A0; font-size: 15px; line-height: 1.6;">
+        I am a Software Engineer focused on building scalable web applications, clean architecture, and uncompromising UI performance. I believe in treating code as craft—where system design and user experience intersect to create products that are both technically robust and visually exceptional. 
+      </p>
+      <br>
+      <h3 align="left">DEVELOPMENT PHILOSOPHY</h3>
+      <p align="left" style="color: #888888; font-size: 14px; line-height: 1.6;">
+        <strong>Minimalism in Architecture.</strong> Complexity should be a last resort. Every abstraction must justify its existence. <br>
+        <strong>Obsessive Performance.</strong> Milliseconds matter. From database query optimization to layout shifts on the frontend.<br>
+        <strong>Continuous Evolution.</strong> Technology changes rapidly; a strong grasp of fundamentals ensures adaptability.
+      </p>
+    </td>
+    <td width="5%"></td>
+    <td width="35%" valign="top">
+      <h3 align="left">CURRENT FOCUS</h3>
+      <p align="left" style="color: #A0A0A0; font-size: 14px; line-height: 1.8;">
+        <span style="color: #00E5FF;">▹</span> Architecting high-scale SaaS<br>
+        <span style="color: #00E5FF;">▹</span> Next.js App Router Internals<br>
+        <span style="color: #00E5FF;">▹</span> Rust for WebAssembly<br>
+        <span style="color: #00E5FF;">▹</span> Advanced System Design
+      </p>
+      <br>
+      <h3 align="left">LEARNING ROADMAP</h3>
+      <p align="left" style="color: #A0A0A0; font-size: 14px; line-height: 1.8;">
+        <span style="color: #00E5FF;">▹</span> WebGL & Three.js<br>
+        <span style="color: #00E5FF;">▹</span> Go Microservices<br>
+        <span style="color: #00E5FF;">▹</span> Machine Learning Ops
+      </p>
+    </td>
+  </tr>
 </table>
 
----
+<br>
+<img src="assets/divider.svg" width="100%" />
+<br><br>
 
-## 🏆 Featured Projects
-
-### 🌟 High-Performance SaaS Platform
-**Next.js • TypeScript • Tailwind CSS • PostgreSQL • Stripe**
-
-Building a modern SaaS platform with real-time collaboration features, advanced analytics, and payment processing. Implemented optimistic UI updates, server-side rendering for SEO, and database query optimization achieving sub-100ms response times.
-
-- **Performance**: Lighthouse score 98, Core Web Vitals optimized
-- **Scale**: Handles 10k+ concurrent users with Redis caching
-- **Architecture**: Monorepo setup with shared utilities and component libraries
-
-[View Repository](https://github.com/Tosif1234/saas-platform) • [Live Demo](https://example.com)
-
----
-
-### 🚀 Open Source Contribution: Advanced CLI Tool
-**TypeScript • Node.js • Commander.js • Jest**
-
-Developed a production-grade CLI tool with 5k+ weekly NPM downloads. Contributed core features for parallel processing, advanced error handling, and extensible plugin architecture. Active maintainer with focus on developer experience.
-
-- **Automation**: Reduces deployment time by 60%
-- **Community**: 200+ GitHub stars, 50+ active contributors
-- **Quality**: 90%+ test coverage, comprehensive documentation
-
-[View Repository](https://github.com/Tosif1234/cli-tool) • [NPM Package](https://www.npmjs.com/package/tool-name)
-
----
-
-### 💡 Real-time Data Visualization Dashboard
-**React • D3.js • WebSockets • Node.js • InfluxDB**
-
-Created a real-time analytics dashboard processing 100k+ data points per second. Implemented WebSocket streaming, efficient rendering with virtualization, and custom D3 visualizations for financial market data.
-
-- **Real-time**: Sub-second data update latency
-- **Performance**: Renders 5000+ data points without lag
-- **Responsive**: Fully optimized for mobile and desktop
-
-[View Repository](https://github.com/Tosif1234/realtime-dashboard) • [Live Demo](https://example.com)
-
----
-
-## 📈 Contribution Activity
+<h2 align="center">CORE TECHNOLOGIES</h2>
+<p align="center" style="color: #888888; font-size: 14px;">Tools refined through production experience.</p>
+<br>
 
 <div align="center">
-  
-  ![Tosif's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tosif1234&theme=react-dark&bg_color=0d1117&color=00d4ff&line=00d4ff&point=58a6ff&area=true&hide_border=true)
-  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00E5FF&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00E5FF&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00E5FF&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00E5FF&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=00E5FF&labelColor=0A0A0A" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00E5FF&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00E5FF&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00E5FF&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=00E5FF&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=00E5FF&labelColor=0A0A0A" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <!-- Tools & Cloud -->
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00E5FF&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00E5FF&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=stripe&logoColor=00E5FF&labelColor=0A0A0A" />
 </div>
 
----
+<br><br>
+<img src="assets/divider.svg" width="100%" />
+<br><br>
 
-## 💼 Professional Experience
+<h2 align="center">SELECTED WORKS</h2>
+<p align="center" style="color: #888888; font-size: 14px;">A showcase of recent engineering efforts.</p>
+<br>
 
-**Senior Full Stack Engineer** • 2021 - Present
-- Led architectural decisions for microservices infrastructure serving 100k+ users
-- Implemented real-time features using WebSockets and event-driven architecture
-- Mentored junior developers and established coding standards
+<table width="100%" border="1" bordercolor="#111111" cellpadding="20" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top" bgcolor="#030303">
+      <h3 style="margin-top: 0; color: #EAEAEA;">Smart Society Management</h3>
+      <p style="color: #888888; font-size: 14px;">Comprehensive platform for residential administration. Features real-time notifications, automated billing, and secure access control.</p>
+      <p style="font-size: 12px; color: #00E5FF; margin-bottom: 20px;">Next.js • PostgreSQL • WebSockets • Prisma</p>
+      <a href="#"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=FFFFFF&color=111111" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/LIVE-000000?style=flat-square&logo=vercel&logoColor=00E5FF&color=111111" /></a>
+    </td>
+    <td width="50%" valign="top" bgcolor="#030303">
+      <h3 style="margin-top: 0; color: #EAEAEA;">E-Commerce Platform</h3>
+      <p style="color: #888888; font-size: 14px;">High-conversion storefront architecture. Integrated with Stripe for payments and optimized for sub-second page loads globally.</p>
+      <p style="font-size: 12px; color: #00E5FF; margin-bottom: 20px;">React • Node.js • Stripe API • Redis Cache</p>
+      <a href="#"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=FFFFFF&color=111111" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/LIVE-000000?style=flat-square&logo=vercel&logoColor=00E5FF&color=111111" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" bgcolor="#030303">
+      <h3 style="margin-top: 0; color: #EAEAEA;">Admin Dashboard</h3>
+      <p style="color: #888888; font-size: 14px;">B2B analytics interface processing large datasets. Custom D3 visualizations and aggressive performance tuning for data density.</p>
+      <p style="font-size: 12px; color: #00E5FF; margin-bottom: 20px;">TypeScript • D3.js • TailwindCSS • GraphQL</p>
+      <a href="#"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=FFFFFF&color=111111" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/LIVE-000000?style=flat-square&logo=vercel&logoColor=00E5FF&color=111111" /></a>
+    </td>
+    <td width="50%" valign="top" bgcolor="#030303">
+      <h3 style="margin-top: 0; color: #EAEAEA;">Personal Portfolio</h3>
+      <p style="color: #888888; font-size: 14px;">A study in digital minimalism and smooth typography. Built to showcase projects with zero distraction and perfect lighthouse scores.</p>
+      <p style="font-size: 12px; color: #00E5FF; margin-bottom: 20px;">Next.js • Framer Motion • MDX</p>
+      <a href="#"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=FFFFFF&color=111111" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/LIVE-000000?style=flat-square&logo=vercel&logoColor=00E5FF&color=111111" /></a>
+    </td>
+  </tr>
+</table>
 
-**Full Stack Developer** • 2019 - 2021
-- Built responsive user interfaces with React and modern state management
-- Developed RESTful and GraphQL APIs handling millions of daily requests
-- Optimized database queries resulting in 40% performance improvement
+<br>
+<img src="assets/divider.svg" width="100%" />
+<br><br>
 
-**Frontend Developer** • 2018 - 2019
-- Created accessible, responsive UI components using semantic HTML and ARIA
-- Collaborated with design team to implement pixel-perfect designs
-- Improved bundle size by 35% through code splitting and lazy loading
-
----
-
-## 🎓 Skills & Expertise
-
-**Core Competencies**
-- Full-stack application development with modern JavaScript frameworks
-- System design and scalable architecture patterns
-- Database optimization and query performance tuning
-- RESTful and GraphQL API design
-- Real-time applications with WebSockets
-- Cloud deployment and containerization
-- CI/CD pipeline implementation
-- Technical mentoring and code review
-
-**Soft Skills**
-- Cross-functional collaboration with product and design teams
-- Technical documentation and knowledge sharing
-- Problem-solving and debugging complex issues
-- Agile/Scrum methodologies
-
----
-
-## 📚 Latest Articles & Insights
-
-- **Building Scalable Real-Time Applications** - Deep dive into WebSocket architecture, event streaming, and performance optimization techniques
-- **TypeScript Best Practices for Large Codebases** - Strategies for type safety, generics, and maintaining type-safe applications at scale
-- **Next.js Performance Optimization** - Image optimization, code splitting, and achieving excellent Core Web Vitals
-- **PostgreSQL Query Optimization** - Index strategies, query planning, and achieving millisecond-level performance
-
----
-
-## 🌐 Let's Connect
-
-I'm always interested in discussing:
-- Architectural challenges and system design
-- Open-source collaboration opportunities
-- Building products that solve real problems
-- Modern web development practices and emerging technologies
+<h2 align="center">METRICS</h2>
+<p align="center" style="color: #888888; font-size: 14px;">Open source telemetry and activity data.</p>
+<br>
 
 <div align="center">
-  <p><strong>Let's build something amazing together</strong></p>
-  
-  [![Schedule a Call](https://img.shields.io/badge/Schedule%20Call-00d4ff?style=for-the-badge&logo=calendly&logoColor=black)](https://calendly.com/tosif)
-  [![Send Email](https://img.shields.io/badge/Send%20Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:tosif@example.com)
+  <img src="https://github-readme-stats.vercel.app/api?username=tosif1234&theme=dark&bg_color=000000&title_color=00E5FF&text_color=A0A0A0&icon_color=00E5FF&border_color=111111&show_icons=true&hide_border=false&border_radius=0" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tosif1234&theme=dark&background=000000&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&border=111111&stroke=111111" width="48%" />
 </div>
 
----
+<br>
 
 <div align="center">
-  <p style="color: #555; font-size: 0.9em;">
-    Made with ❤️ • Last updated: 2026
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tosif1234&theme=dark&bg_color=000000&title_color=00E5FF&text_color=A0A0A0&langs_count=6&hide_border=false&border_color=111111&border_radius=0&layout=compact" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tosif1234&theme=react-dark&bg_color=000000&color=A0A0A0&line=00E5FF&point=00E5FF&area=true&hide_border=false&border_color=111111&border_radius=0" width="48%" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="assets/footer.svg" width="100%" />
 </div>
